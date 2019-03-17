@@ -10,13 +10,6 @@ class Post
         
     end
 
-    # def author
-    #    @author 
-    # #    = Author.new
-    # end
 
-    # def name
-    #     author.name
-    # end
 
 end

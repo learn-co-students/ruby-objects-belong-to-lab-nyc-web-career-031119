@@ -5,7 +5,4 @@ class Song
         
     # end
 
-    # def artist(song)
-    #     Artist.new(self)
-    # end
 end
